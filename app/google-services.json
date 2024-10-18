@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157194520602",
+    "project_id": "video-b326b",
+    "storage_bucket": "video-b326b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157194520602:android:5e08b0cd22500cefe729a3",
+        "android_client_info": {
+          "package_name": "com.example.swipevideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvcEgaYGK-I08V51PK18WAypkDnyzGTjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
