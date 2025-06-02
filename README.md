@@ -1,8 +1,8 @@
 # Swipe Video App for Android  
-
+# Aty Sokoy
 ## Project Overview  
 This project focuses on developing a **swipeable video application** for Android devices, providing users with an intuitive way to browse video content effortlessly.  
-#Aty Sokoy
+Aty Sokoy
 ## Key Features  
 - **Smooth Swipe Navigation** – Users can swipe through videos seamlessly.  
 - **Organized Video Hosting** – Each video includes a **title, description, and unique ID**, ensuring structured content management.  
@@ -10,7 +10,7 @@ This project focuses on developing a **swipeable video application** for Android
 
 ## Technologies Used  
 - **Android Studio**  
-- **Java/Kotlin**  
+- **Java**  
 - **Firebase or Local Storage for Video Management**  
 
 ## Purpose  
